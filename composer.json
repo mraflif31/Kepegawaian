@@ -1,0 +1,12 @@
+{
+    "name": "vendor/kepegawaian",
+    "description": "Description of project Kepegawaian.",
+    "authors": [
+        {
+            "name": "Rafli",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+    }
+}
