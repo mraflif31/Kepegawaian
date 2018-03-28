@@ -1,0 +1,54 @@
+#view-table {
+    background-color : white;
+    margin : 1% auto 1% auto;
+    border-radius: 5px;
+    border-collapse: collapse;
+}
+
+.head {
+    display: ;
+}
+
+.body {
+    
+}
+
+.table_head, .table_body {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.table_head a:link {
+    color: white;
+    text-decoration: none;
+}
+
+.table_head a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.table_head a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.table_head a:active {
+    color: white;
+    text-decoration: none;
+}
+
+.table_head {
+    text-align: center;
+    border-style: solid;
+    margin-right: %;
+    width: auto;
+    min-width: 100px;
+    background-color: darkslategray;
+    color: white;
+    font-weight: bold;
+}
+
+.table_body {
+    text-align: center; 
+}

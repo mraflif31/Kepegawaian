@@ -102,14 +102,10 @@ and open the template in the editor.
 #main {
     height: auto;
     width: 100%;
-    background-color: blue;
+    background-color: white;
     border-radius: 10px;
 }
 
-#view-table {
-    background-color: red;
-    margin: 1% auto 0 auto;
-}
 
 #testphp {
     background-color: coral;
@@ -123,6 +119,11 @@ and open the template in the editor.
 
 #tambahPegawaiLink {
     color:black;
+}
+
+#table-form {
+    background-color: white;
+    border-radius: 5px;
 }
 
 #form {

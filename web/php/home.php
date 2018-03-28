@@ -22,7 +22,7 @@ and open the template in the editor.
                 <div class="dropdown">
                     <button onClick="myFunction('pegawaiDropdown')" class="dropbtn">Pegawai</button>
                     <div id="pegawaiDropdown" class="dropdown-content">
-                        <a href="#">Cari Pegawai</a>
+                        <a href="cariPegawai.php">Cari Pegawai</a>
                         <a href="tambahPegawai.php">Tambah Pegawai</a>
                         <a href="#">Sunting Pegawai</a>
                     </div>
